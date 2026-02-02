@@ -1,0 +1,23 @@
+<map id="client_server/tcp_full_duplex_client.c" name="client_server/tcp_full_duplex_client.c">
+<area shape="rect" id="Node000001" title="Client&#45;side implementation of TCP Full Duplex Communication." alt="" coords="454,5,596,46"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,94,88,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="451,38,297,63,103,96,102,91,297,58,456,36"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="112,94,176,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="455,42,191,96,190,91,454,37"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="200,94,285,120"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="457,46,300,92,299,87,452,47"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="309,94,405,120"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="486,46,398,90,396,84,481,47"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="430,94,519,120"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="515,45,492,83,489,78,510,48"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="544,94,611,120"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="539,44,563,82,558,80,537,49"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="634,94,699,120"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="561,44,634,86,629,86,560,49"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="723,94,783,120"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="583,44,711,90,706,90,582,49"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="807,94,870,120"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="596,41,794,93,789,93,596,47"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="894,94,959,120"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="596,36,725,59,882,93,876,93,724,64,596,41"/>
+</map>

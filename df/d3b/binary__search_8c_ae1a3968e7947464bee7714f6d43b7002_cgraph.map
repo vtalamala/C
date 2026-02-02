@@ -1,0 +1,8 @@
+<map id="test" name="test">
+<area shape="rect" id="Node000001" title="Test implementations." alt="" coords="5,55,49,80"/>
+<area shape="rect" id="Node000002" href="$df/d3b/binary__search_8c.html#a40855c608ca64048d04cff6526f0a582" title="Recursive implementation." alt="" coords="97,29,199,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="48,61,83,54,79,58,50,66"/>
+<area shape="rect" id="Node000003" href="$df/d3b/binary__search_8c.html#a908fd6d2ad0bba33f63f8454888a0032" title="Iterative implementation." alt="" coords="97,79,199,104"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="49,69,84,77,79,80,49,74"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="126,28,123,21,125,11,134,5,148,3,163,5,172,14,167,14,161,10,148,8,136,10,129,14,128,20,132,30"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="calculate_ct" name="calculate_ct">
+<area shape="rect" id="Node000001" title="To calculate the average completion time of all the processes." alt="" coords="5,80,97,106"/>
+<area shape="rect" id="Node000002" href="$d2/d87/non__preemptive__priority__scheduling_8c.html#a01b8ee561d8532a44d665c2c854e0d09" title="To compare the priority of two processes based on their arrival time and priority." alt="" coords="145,5,216,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,77,145,37,142,42,77,82"/>
+<area shape="rect" id="Node000003" href="$d2/d87/non__preemptive__priority__scheduling_8c.html#a5d0943b2e0e1b48b9c3a575a7f262c36" title="To insert a new process in the queue." alt="" coords="154,55,207,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="96,81,141,74,136,77,98,86"/>
+<area shape="rect" id="Node000004" href="$d2/d87/non__preemptive__priority__scheduling_8c.html#a40e454ce0750e794007bf41a7102b3a9" title="To length process queue." alt="" coords="147,104,214,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="97,99,134,107,129,109,97,104"/>
+<area shape="rect" id="Node000005" href="$d2/d87/non__preemptive__priority__scheduling_8c.html#a9bc34d3b138bd0153a942cf6a8b31533" title="To update the completion time, turn around time and waiting time of the processes." alt="" coords="150,153,210,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="76,104,146,144,141,147,75,109"/>
+</map>

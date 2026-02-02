@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['sample_20solutions_20for_20exercism_20io_20http_3a_20exercism_20io_0',['Sample solutions for [exercism.io](&lt;a href=&quot;http://exercism.io/&quot;&gt;http://exercism.io/&lt;/a&gt;)',['../dir_48bf5503321d91c557399989fed5dabd.html#autotoc_md68',1,'']]],
+  ['scheduling_20algorithms_1',['Process Scheduling Algorithms',['../d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md64',1,'']]],
+  ['scope_2',['Scope',['../d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md4',1,'']]],
+  ['search_3',['the array using the &lt;a href=&quot;https://github.com/TheAlgorithms/Algorithms-Explanation/blob/master/en/Search%20Algorithms/Binary%20Search.md&quot; target=&quot;_blank&quot;&gt;Binary Search&lt;/a&gt;',['../da/d6c/exponential__search_8c.html#autotoc_md84',1,'']]],
+  ['search_20algorithm_20to_20find_20the_20given_20element_4',['where to apply the binary search algorithm to find the given element',['../da/d6c/exponential__search_8c.html#autotoc_md83',1,'']]],
+  ['searching_5',['Searching',['../d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md66',1,'']]],
+  ['self_20test_20examples_6',['Self-test examples',['../d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md27',1,'']]],
+  ['server_7',['Client Server',['../d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md49',1,'']]],
+  ['setting_20up_20the_20project_20💻_8',['💻 Cloning/setting up the project 💻',['../dir_03902f230b9e9b7c999f936617a23997.html#autotoc_md74',1,'']]],
+  ['simple_20generic_20stack_9',['Simple generic Stack',['../dir_2176ba3565d8b1fe2a106d18679cc7bf.html#autotoc_md44',1,'']]],
+  ['solution_20📝_10',['📝 Adding a new solution 📝',['../dir_03902f230b9e9b7c999f936617a23997.html#autotoc_md75',1,'']]],
+  ['solutions_11',['LeetCode solutions',['../d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md22',1,'']]],
+  ['solutions_20for_20exercism_20io_20http_3a_20exercism_20io_12',['Sample solutions for [exercism.io](&lt;a href=&quot;http://exercism.io/&quot;&gt;http://exercism.io/&lt;/a&gt;)',['../dir_48bf5503321d91c557399989fed5dabd.html#autotoc_md68',1,'']]],
+  ['sort_20function_13',['Sort Function',['../dir_c7ef0fcb2f2095a74f0a3a1634dfc798.html#autotoc_md39',1,'']]],
+  ['sorting_14',['Sorting',['../d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md67',1,'']]],
+  ['stack_15',['Simple generic Stack',['../dir_2176ba3565d8b1fe2a106d18679cc7bf.html#autotoc_md44',1,'']]],
+  ['standards_16',['Our Standards',['../d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md2',1,'']]],
+  ['static_20code_20analyzer_17',['Static Code Analyzer',['../d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md35',1,'']]],
+  ['structure_18',['Structure',['../dir_c7ef0fcb2f2095a74f0a3a1634dfc798.html#autotoc_md40',1,'']]],
+  ['structure_20of_20a_20program_19',['Typical structure of a program',['../d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md28',1,'']]],
+  ['structures_20',['Data Structures',['../d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md51',1,'']]],
+  ['style_20convention_21',['Code style convention',['../dc/d64/md__coding_guidelines.html',1,'']]],
+  ['style_20conventions_22',['Code style conventions',['../dc/d64/md__coding_guidelines.html#autotoc_md16',1,'']]]
+];

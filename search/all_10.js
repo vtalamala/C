@@ -1,14 +1,17 @@
 var searchData=
 [
-  ['projecteuler_165',['ProjectEuler',['../d8/d81/md_project_euler__r_e_a_d_m_e.html',1,'']]],
-  ['pid_166',['pid',['../d0/d43/structpid.html',1,'']]],
-  ['poly_5ffunction_167',['poly_function',['../da/d38/durand__kerner__roots_8c.html#a321f9781a9744ccdaf0aba89f35ec29c',1,'durand_kerner_roots.c']]],
-  ['postorder_5fdisplay_168',['postorder_display',['../df/d3c/threaded__binary__trees_8c.html#a5a82ae0ee13788be51ca4ba6cddb0719',1,'threaded_binary_trees.c']]],
-  ['preorder_5fdisplay_169',['preorder_display',['../df/d3c/threaded__binary__trees_8c.html#a8169ba0dfd5b8183672e444d1434bf9c',1,'threaded_binary_trees.c']]],
-  ['prev_5fdigit_170',['prev_digit',['../dc/d77/struct__big__int.html#ad8405989a924410942b39ec0e9fef30b',1,'_big_int']]],
-  ['print_171',['print',['../dc/d80/cantor__set_8c.html#a75ee530cd7148a63249784ad3dda8fab',1,'print(CantorSet *head):&#160;cantor_set.c'],['../d5/df4/group__sudoku.html#ga702ff4f95dde780c7d04fcdd1021b6c1',1,'print(const struct sudoku *a):&#160;sudoku_solver.c']]],
-  ['print_5fmatrix_172',['print_matrix',['../d4/d68/qr__decompose_8h.html#a90562ce8c3707401e9c5809dece68d6a',1,'qr_decompose.h']]],
-  ['print_5fnumber_173',['print_number',['../db/d01/problem__13_2sol1_8c.html#a248adc917818cc6666d8bc679a660319',1,'print_number(uint8_t *number, uint8_t N, int8_t num_digits_to_print):&#160;sol1.c'],['../d8/d32/problem__25_2sol1_8c.html#abe5bc1f170b2108a19d0a16d30bd3235',1,'print_number(unsigned char *number, int N):&#160;sol1.c']]],
-  ['problem_174',['problem',['../d4/d07/ode__forward__euler_8c.html#a97075291390a68c262ed66e157a57eb4',1,'problem(const double *x, double *y, double *dy):&#160;ode_forward_euler.c'],['../d1/dc2/ode__midpoint__euler_8c.html#a97075291390a68c262ed66e157a57eb4',1,'problem(const double *x, double *y, double *dy):&#160;ode_midpoint_euler.c'],['../d4/d99/ode__semi__implicit__euler_8c.html#a97075291390a68c262ed66e157a57eb4',1,'problem(const double *x, double *y, double *dy):&#160;ode_semi_implicit_euler.c']]],
-  ['propagate_175',['propagate',['../dc/d80/cantor__set_8c.html#a1f156d2b53b80305bd2fa3ff5fdf3c97',1,'cantor_set.c']]]
+  ['k_20means_20clustering_20algorithm_0',['K-Means Clustering Algorithm',['../d8/d71/group__k__means.html',1,'']]],
+  ['k_5fmeans_5fclustering_2ec_1',['k_means_clustering.c',['../d6/d76/k__means__clustering_8c.html',1,'']]],
+  ['kk_5fmax_2',['KK_MAX',['../d7/d3b/group__hash.html#ga1ee4dc21c835217a5a1dddfb48b43063',1,'hash_blake2b.c']]],
+  ['kmeans_3',['kMeans',['../d8/d71/group__k__means.html#gaf6259432561e794dea0e060f482d15e2',1,'k_means_clustering.c']]],
+  ['kohonen_20som_20topology_20algorithm_4',['Kohonen SOM topology algorithm',['../d1/d6b/group__kohonen__2d.html',1,'']]],
+  ['kohonen_20som_20trace_20chain_20algorithm_5',['Kohonen SOM trace/chain algorithm',['../d0/dcb/group__kohonen__1d.html',1,'']]],
+  ['kohonen_5farray_5f3d_6',['kohonen_array_3d',['../d8/db8/structkohonen__array__3d.html',1,'']]],
+  ['kohonen_5fdata_5f3d_7',['kohonen_data_3d',['../d1/d6b/group__kohonen__2d.html#gac78022076d889bf2ebfb2c41d4527ceb',1,'kohonen_som_topology.c']]],
+  ['kohonen_5fget_5fmin_5f1d_8',['kohonen_get_min_1d',['../d0/dcb/group__kohonen__1d.html#ga4a57a413a3cef286a7da6d4666575586',1,'kohonen_som_trace.c']]],
+  ['kohonen_5fsom_9',['kohonen_som',['../d1/d6b/group__kohonen__2d.html#gacb42eda8af6ebd6a141a34ab00a0b710',1,'kohonen_som_topology.c']]],
+  ['kohonen_5fsom_5ftopology_2ec_10',['kohonen_som_topology.c',['../d2/df6/kohonen__som__topology_8c.html',1,'']]],
+  ['kohonen_5fsom_5ftrace_2ec_11',['kohonen_som_trace.c',['../d0/d46/kohonen__som__trace_8c.html',1,'']]],
+  ['kohonen_5fsom_5ftracer_12',['kohonen_som_tracer',['../d0/dcb/group__kohonen__1d.html#gaeaeffbff2be4d5d15b0d4f10f846abde',1,'kohonen_som_trace.c']]],
+  ['kohonen_5fupdate_5fweights_13',['kohonen_update_weights',['../d1/d6b/group__kohonen__2d.html#ga83abb572c60d202e100595a989dfe123',1,'kohonen_update_weights(const double *X, struct kohonen_array_3d *W, double **D, int num_out, int num_features, double alpha, int R):&#160;kohonen_som_topology.c'],['../d0/dcb/group__kohonen__1d.html#gae334493a0917a24736fe5ba82aa6f81f',1,'kohonen_update_weights(double const *x, double *const *W, double *D, int num_out, int num_features, double alpha, int R):&#160;kohonen_som_trace.c']]]
 ];

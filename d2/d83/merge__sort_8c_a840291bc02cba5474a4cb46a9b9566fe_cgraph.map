@@ -1,0 +1,10 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title="Main function." alt="" coords="5,31,55,56"/>
+<area shape="rect" id="Node000002" href="$d5/d4c/group__sorting.html#gab99b8a397bdd0bf2903d66c22ba4ba43" title="Merge sort algorithm implementation." alt="" coords="103,31,189,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="55,41,89,42,85,45,56,46"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="125,29,122,22,124,13,132,6,146,4,160,7,169,16,164,15,158,12,146,9,134,11,128,16,127,22,130,31"/>
+<area shape="rect" id="Node000003" href="$d5/d4c/group__sorting.html#ga8dc3ec66cb3350313fdb34bfd1674729" title="Perform merge of segments." alt="" coords="237,5,294,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="189,32,224,27,219,28,190,37"/>
+<area shape="rect" id="Node000004" href="$d5/d4c/group__sorting.html#ga4b9708d87be7a409eff20e5e7e8b43c8" title="Swap two integer variables." alt="" coords="240,55,292,80"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="190,50,227,59,222,59,189,55"/>
+</map>

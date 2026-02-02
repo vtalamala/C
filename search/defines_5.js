@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['n_471',['N',['../db/d01/problem__13_2sol1_8c.html#a0240ac851181b84ac374872dc5434ee4',1,'sol1.c']]],
-  ['n2_472',['N2',['../db/d01/problem__13_2sol1_8c.html#acd864640121c7df2c19f61f7baa507e4',1,'sol1.c']]]
+  ['int_5fmax_5flength_0',['INT_MAX_LENGTH',['../d9/deb/min__printf_8h.html#ab47a4bec9213d96e1dba5171e5db0e25',1,'min_printf.h']]]
 ];

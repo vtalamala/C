@@ -1,0 +1,14 @@
+<map id="calculate_tat" name="calculate_tat">
+<area shape="rect" id="Node000001" title="To calculate the average turn around time of all the processes." alt="" coords="5,128,101,154"/>
+<area shape="rect" id="Node000002" href="$d2/d87/non__preemptive__priority__scheduling_8c.html#abbb2446313782dd3ba9ff2a7ad0ce1df" title="To calculate the average completion time of all the processes." alt="" coords="149,103,240,128"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,130,136,125,131,127,102,135"/>
+<area shape="rect" id="Node000005" href="$d2/d87/non__preemptive__priority__scheduling_8c.html#a40e454ce0750e794007bf41a7102b3a9" title="To length process queue." alt="" coords="290,153,357,179"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="101,143,276,159,274,164,101,148"/>
+<area shape="rect" id="Node000003" href="$d2/d87/non__preemptive__priority__scheduling_8c.html#a01b8ee561d8532a44d665c2c854e0d09" title="To compare the priority of two processes based on their arrival time and priority." alt="" coords="288,5,359,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="210,100,286,40,288,42,293,39,290,44,213,104"/>
+<area shape="rect" id="Node000004" href="$d2/d87/non__preemptive__priority__scheduling_8c.html#a5d0943b2e0e1b48b9c3a575a7f262c36" title="To insert a new process in the queue." alt="" coords="297,55,350,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="230,99,280,84,285,82,232,105"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="229,126,279,148,274,148,228,131"/>
+<area shape="rect" id="Node000006" href="$d2/d87/non__preemptive__priority__scheduling_8c.html#a9bc34d3b138bd0153a942cf6a8b31533" title="To update the completion time, turn around time and waiting time of the processes." alt="" coords="294,104,354,130"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="240,113,281,116,275,117,241,119"/>
+</map>

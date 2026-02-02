@@ -1,0 +1,26 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title="Main function." alt="" coords="5,107,55,132"/>
+<area shape="rect" id="Node000002" href="$d7/d98/spirograph_8c.html#a708a4c1a4d0c4acc4c447310dd4db27f" title="Test function to save resulting points to a CSV file." alt="" coords="106,44,150,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="50,104,95,76,92,81,54,108"/>
+<area shape="rect" id="Node000004" href="$dd/d8c/adaline__learning_8c.html#a05cc9a0acb524fde727a4d7b4a747ee6" title="test function to predict points in a 2D coordinate system above the line &#160;as +1 and others as &#45;1." alt="" coords="103,131,153,156"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="54,123,90,132,86,135,56,128"/>
+<area shape="rect" id="Node000003" href="$d7/d98/spirograph_8c.html#a0daa148091ec953809fc172289f773d3" title="Generate spirograph curve into arrays x and y such that the i^th point in 2D is represented by (x[i],..." alt="" coords="212,5,294,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="148,48,199,33,196,37,151,52"/>
+<area shape="rect" id="Node000005" href="$da/d2a/group__adaline.html#gaa52120912e32d2893fe1c6d78da5befd" title="Update the weights of the model using supervised learning for an array of vectors." alt="" coords="213,55,293,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="149,128,220,87,216,91,152,132"/>
+<area shape="rect" id="Node000007" href="$da/d2a/group__adaline.html#gac70b578aee679005fd336073969c3d94" title="predict the output of the model for given set of features" alt="" coords="563,107,671,132"/>
+<area shape="poly" id="edge10_Node000004_Node000007" title=" " alt="" coords="153,143,306,149,410,148,514,141,557,136,552,137,515,146,410,154,306,155,154,148"/>
+<area shape="rect" id="Node000009" href="$da/d2a/group__adaline.html#gadb1a7acb555ad62daaf3806bf2fed036" title="Operator to print the weights of the model." alt="" coords="353,105,515,131"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="153,139,339,124,336,128,154,144"/>
+<area shape="rect" id="Node000010" href="$da/d2a/group__adaline.html#ga6f35caa3084772cc126ac7b20f67f665" title="delete dynamically allocated memory" alt="" coords="201,207,305,232"/>
+<area shape="poly" id="edge11_Node000004_Node000010" title=" " alt="" coords="151,154,220,198,215,199,150,159"/>
+<area shape="rect" id="Node000011" href="$da/d2a/group__adaline.html#gacd88962c5f6341e43cbc69b4a7d3485b" title="Default constructor." alt="" coords="206,280,300,306"/>
+<area shape="poly" id="edge12_Node000004_Node000011" title=" " alt="" coords="138,154,166,196,203,243,228,270,223,269,199,247,162,199,136,159"/>
+<area shape="rect" id="Node000006" href="$da/d2a/group__adaline.html#ga20d3642e0a87f36fdb7bf91b023cd166" title="Update the weights of the model using supervised learning for one feature vector." alt="" coords="369,56,499,82"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="293,65,356,67,351,69,294,70"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="293,76,373,100,368,101,294,81"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="483,80,556,102,551,102,483,85"/>
+<area shape="rect" id="Node000008" href="$da/d2a/group__adaline.html#ga43576566b020c4157d4fb28f0dd45cfa" title="Heaviside activation function" alt="" coords="719,107,844,132"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="671,117,706,119,701,120,672,122"/>
+<area shape="poly" id="edge13_Node000011_Node000011" title=" " alt="" coords="231,278,227,271,230,262,239,256,253,253,269,256,278,265,273,264,267,261,253,259,241,261,234,265,232,271,236,281"/>
+</map>

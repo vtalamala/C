@@ -1,0 +1,18 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title="Main function." alt="" coords="5,104,55,130"/>
+<area shape="rect" id="Node000002" href="$da/d96/infix__to__postfix2_8c.html#ae363a3863a8bfbf40e7a95c2b9dbe71b" title="Function to convert infix expression to postfix expression." alt="" coords="194,104,258,130"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="55,114,180,114,177,119,56,119"/>
+<area shape="rect" id="Node000008" href="$da/d96/infix__to__postfix2_8c.html#aa8dca7b867074164d5f45b0f3851269d" title="Self&#45;test implementations." alt="" coords="103,129,146,155"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="54,121,90,131,85,134,55,126"/>
+<area shape="rect" id="Node000003" href="$da/d96/infix__to__postfix2_8c.html#a653c98c68c558505b75b04c44b7c838e" title="Function to check whether the stack is empty or not." alt="" coords="306,5,376,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="239,101,305,40,306,42,311,39,308,44,242,106"/>
+<area shape="rect" id="Node000004" href="$da/d96/infix__to__postfix2_8c.html#a312e7f6c761a199c1369fbe651e084f0" title="Function to pop from the stack." alt="" coords="320,55,362,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="257,101,308,81,303,84,259,106"/>
+<area shape="rect" id="Node000005" href="$da/d96/infix__to__postfix2_8c.html#a02d1bf0ff997efc46ba6fd0ec7952952" title="Function to check priority of operators." alt="" coords="311,104,371,130"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="258,114,298,116,293,117,259,119"/>
+<area shape="rect" id="Node000006" href="$da/d96/infix__to__postfix2_8c.html#a90e051f23f741be4f8ca86c270d66489" title="Function to push on the stack." alt="" coords="316,153,366,179"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="258,128,304,149,299,150,258,133"/>
+<area shape="rect" id="Node000007" href="$da/d96/infix__to__postfix2_8c.html#a2d1c13296ce9c42bb5dd7d834e2802bf" title="Function to get top of the stack." alt="" coords="320,203,362,228"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="241,128,308,189,311,194,306,192,305,194,239,133"/>
+<area shape="poly" id="edge8_Node000008_Node000002" title=" " alt="" coords="145,134,181,127,176,130,147,139"/>
+</map>

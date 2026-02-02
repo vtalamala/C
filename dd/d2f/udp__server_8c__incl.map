@@ -1,0 +1,21 @@
+<map id="client_server/udp_server.c" name="client_server/udp_server.c">
+<area shape="rect" id="Node000001" title="Server side implementation of UDP client&#45;server model." alt="" coords="388,5,561,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,88,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="390,34,103,81,102,76,389,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="112,79,176,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="413,34,191,81,190,76,411,29"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="200,79,285,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="438,31,297,77,296,71,432,32"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="309,79,405,105"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="457,31,391,73,389,68,452,32"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="430,79,519,105"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="476,29,477,65,472,62,473,33"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="544,79,611,105"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="493,29,550,70,545,70,491,34"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="635,79,695,105"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="507,29,623,74,618,74,506,34"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="719,79,782,105"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="523,29,706,78,701,78,522,34"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="806,79,871,105"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="548,29,794,78,789,79,548,34"/>
+</map>

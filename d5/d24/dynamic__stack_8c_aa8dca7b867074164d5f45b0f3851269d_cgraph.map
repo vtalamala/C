@@ -1,0 +1,19 @@
+<map id="test" name="test">
+<area shape="rect" id="Node000001" title="Self&#45;test implementations." alt="" coords="5,153,49,179"/>
+<area shape="rect" id="Node000002" href="$d5/d24/dynamic__stack_8c.html#ab628a00140af56945b3f514cef0b3da0" title="Create a Stack object." alt="" coords="103,5,199,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="30,152,52,99,71,68,95,40,101,38,98,42,99,44,75,71,57,101,35,154"/>
+<area shape="rect" id="Node000003" href="$d5/d24/dynamic__stack_8c.html#a0eebbddad64a35d337093293466e26a1" title="The function is used to check whether the stack is empty or not and return true or false accordingly." alt="" coords="117,55,184,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="35,152,61,121,95,89,105,85,102,89,98,94,64,125,40,154"/>
+<area shape="rect" id="Node000004" href="$d5/d24/dynamic__stack_8c.html#a68471e91db2e62acd584744c24a09a4f" title="To retrieve or fetch the first element of the Stack or the element present at the top of the Stack." alt="" coords="126,104,176,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="47,156,113,130,110,135,51,160"/>
+<area shape="rect" id="Node000005" href="$da/d96/infix__to__postfix2_8c.html#a312e7f6c761a199c1369fbe651e084f0" title="Function to pop from the stack." alt="" coords="130,153,172,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="48,164,116,164,112,168,50,169"/>
+<area shape="rect" id="Node000006" href="$d5/d24/dynamic__stack_8c.html#aff3ec5aac14cef11d2666c0de4ba9b6e" title="The push function pushes the element onto the stack." alt="" coords="126,203,176,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="49,172,113,198,109,202,49,177"/>
+<area shape="rect" id="Node000008" href="$d5/d24/dynamic__stack_8c.html#a9fe3f4e1147dd49a0ad4ca8f0228827d" title="To display the current capacity of the stack." alt="" coords="97,252,205,278"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="38,177,64,208,98,239,104,244,99,244,95,243,61,211,38,182"/>
+<area shape="rect" id="Node000009" href="$d5/d24/dynamic__stack_8c.html#ad46c93f9aac8431f73dc5e3a4413097e" title="Used to get the size of the Stack or the number of elements present in the Stack." alt="" coords="109,301,193,327"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="33,177,57,231,75,261,99,288,102,293,97,292,95,292,71,264,52,233,32,182"/>
+<area shape="rect" id="Node000007" href="$d5/d24/dynamic__stack_8c.html#ac01c5d1d1000ed68b5ff093c5ff36854" title="As this is stack implementation using dynamic array this function will expand the size of the stack b..." alt="" coords="253,203,348,228"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="175,213,240,214,235,217,176,218"/>
+</map>

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['dictionary_482',['Dictionary',['../de/d20/md_data_structures_dictionary__r_e_a_d_m_e.html',1,'']]]
+  ['3_20temporary_20ban_0',['3. Temporary Ban',['../d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md9',1,'']]]
 ];

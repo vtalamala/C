@@ -1,0 +1,5 @@
+<map id="push" name="push">
+<area shape="rect" id="Node000001" title="The push function pushes the element onto the stack." alt="" coords="5,5,55,31"/>
+<area shape="rect" id="Node000002" href="$d5/d24/dynamic__stack_8c.html#ac01c5d1d1000ed68b5ff093c5ff36854" title="As this is stack implementation using dynamic array this function will expand the size of the stack b..." alt="" coords="103,5,198,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="55,16,90,17,85,19,55,21"/>
+</map>

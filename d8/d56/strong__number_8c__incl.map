@@ -1,0 +1,9 @@
+<map id="math/strong_number.c" name="math/strong_number.c">
+<area shape="rect" id="Node000001" title="Strong number is a number whose sum of all digits’ factorial is equal to the number n For example: 14..." alt="" coords="60,5,211,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,74,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,31,69,72,66,68,117,32"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="98,79,173,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="137,29,138,64,133,62,134,33"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="197,79,258,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="152,29,203,69,198,70,150,34"/>
+</map>

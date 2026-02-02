@@ -1,0 +1,20 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title="Main funcion." alt="" coords="5,176,55,202"/>
+<area shape="rect" id="Node000002" href="$da/d02/binary__search__tree_8c.html#adff4c6248834a9944a1fb03a20230c9c" title="Search procedure, which looks for the input key in the tree and returns 1 if it&#39;s present or 0 if it&#39;..." alt="" coords="113,29,156,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="35,175,60,124,79,93,101,64,104,63,102,68,105,68,83,96,65,127,39,177"/>
+<area shape="rect" id="Node000003" href="$da/d02/binary__search__tree_8c.html#ae4a66d8b0c2b0d626aea45977e358c83" title="Utilitary procedure to measure the height of the binary tree." alt="" coords="106,103,162,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="48,174,103,135,101,140,52,177"/>
+<area shape="rect" id="Node000004" href="$da/d02/binary__search__tree_8c.html#a0f18adaaca5ecc410cfa16dd2a3684dc" title="Traversal procedure to list the current keys in the tree in order of value (from the left to the righ..." alt="" coords="103,176,166,202"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="54,186,89,187,85,191,56,191"/>
+<area shape="rect" id="Node000005" href="$da/d02/binary__search__tree_8c.html#a031cc98830742bca57c0da81a0fb779f" title="Insertion procedure, which inserts the input key in a new node in the tree." alt="" coords="108,249,161,275"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="50,200,105,239,100,241,50,205"/>
+<area shape="rect" id="Node000007" href="$da/d02/binary__search__tree_8c.html#a01151353aa2d9688934ed39208133241" title="Utilitary procedure to free all nodes in a tree." alt="" coords="108,323,161,348"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="42,200,118,309,113,311,39,204"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="115,29,112,21,114,11,122,5,134,3,148,5,155,14,150,15,145,10,134,8,124,10,119,14,117,20,121,29"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="115,102,112,94,114,85,122,78,134,76,148,79,155,87,150,88,145,83,134,81,124,83,119,88,117,94,121,102"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="115,175,112,167,114,158,122,152,134,149,148,152,156,161,150,161,145,157,134,155,124,156,119,161,117,167,121,176"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="115,248,112,241,114,231,122,225,134,223,148,225,156,234,150,234,145,230,134,228,124,230,119,234,117,240,121,249"/>
+<area shape="rect" id="Node000006" href="$da/d02/binary__search__tree_8c.html#adf2169c1008551b20c4a59fcf0c9ab3b" title="The node constructor, which receives the key value input and returns a node pointer." alt="" coords="214,249,290,275"/>
+<area shape="poly" id="edge9_Node000005_Node000006" title=" " alt="" coords="161,260,201,261,196,263,162,265"/>
+<area shape="poly" id="edge11_Node000007_Node000007" title=" " alt="" coords="116,321,112,314,114,305,122,298,134,296,148,299,155,308,150,307,145,303,134,301,124,303,119,308,117,314,120,323"/>
+</map>

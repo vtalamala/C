@@ -1,0 +1,22 @@
+<map id="test" name="test">
+<area shape="rect" id="Node000001" title="Self&#45;test implementations." alt="" coords="5,81,49,107"/>
+<area shape="rect" id="Node000002" href="$d2/d87/non__preemptive__priority__scheduling_8c.html#abbb2446313782dd3ba9ff2a7ad0ce1df" title="To calculate the average completion time of all the processes." alt="" coords="240,56,331,82"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="49,89,225,72,224,77,50,95"/>
+<area shape="rect" id="Node000004" href="$d2/d87/non__preemptive__priority__scheduling_8c.html#a5d0943b2e0e1b48b9c3a575a7f262c36" title="To insert a new process in the queue." alt="" coords="388,5,442,31"/>
+<area shape="poly" id="edge12_Node000001_Node000004" title=" " alt="" coords="47,82,96,62,172,44,248,32,375,20,370,22,248,37,173,50,97,67,50,86"/>
+<area shape="rect" id="Node000007" href="$d2/d87/non__preemptive__priority__scheduling_8c.html#a458803d3c3926a6bcc4d51540f297756" title="To calculate the average turn around time of all the processes." alt="" coords="97,107,192,132"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="48,96,83,104,79,107,49,101"/>
+<area shape="rect" id="Node000008" href="$d2/d87/non__preemptive__priority__scheduling_8c.html#ae5e4de64ef6c5676d5013d90229a875c" title="To calculate the average waiting time of all the processes." alt="" coords="97,156,192,182"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="45,105,98,143,105,148,100,148,95,147,44,110"/>
+<area shape="rect" id="Node000003" href="$d2/d87/non__preemptive__priority__scheduling_8c.html#a01b8ee561d8532a44d665c2c854e0d09" title="To compare the priority of two processes based on their arrival time and priority." alt="" coords="379,55,451,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="331,66,367,68,361,69,332,71"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="319,53,376,33,371,35,321,58"/>
+<area shape="rect" id="Node000005" href="$d2/d87/non__preemptive__priority__scheduling_8c.html#a40e454ce0750e794007bf41a7102b3a9" title="To length process queue." alt="" coords="382,153,448,179"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="307,80,333,99,381,140,384,145,379,143,378,144,330,103,306,85"/>
+<area shape="rect" id="Node000006" href="$d2/d87/non__preemptive__priority__scheduling_8c.html#a9bc34d3b138bd0153a942cf6a8b31533" title="To update the completion time, turn around time and waiting time of the processes." alt="" coords="385,104,445,130"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="323,80,373,100,367,100,322,85"/>
+<area shape="poly" id="edge7_Node000007_Node000002" title=" " alt="" coords="182,104,236,86,231,88,183,109"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="193,124,332,146,369,156,364,156,331,151,192,129"/>
+<area shape="poly" id="edge10_Node000008_Node000002" title=" " alt="" coords="173,153,191,143,256,93,261,92,193,147,175,158"/>
+<area shape="poly" id="edge11_Node000008_Node000005" title=" " alt="" coords="192,166,369,166,364,168,192,171"/>
+</map>

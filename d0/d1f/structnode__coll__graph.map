@@ -1,3 +1,4 @@
 <map id="node" name="node">
-<area shape="rect" id="node1" title="Kyler Smith, 2017 Stack data structure implementation." alt="" coords="5,51,56,77"/>
+<area shape="rect" id="Node000001" title="Node, the basic data structure in the tree." alt="" coords="5,85,55,111"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="70,91,81,98,72,105,56,105,54,100,71,100,76,98,71,97"/>
 </map>

@@ -1,5 +1,8 @@
 var searchData=
 [
-  ['factorial_5flarge_5fnumber_2ec_282',['factorial_large_number.c',['../d6/d3d/factorial__large__number_8c.html',1,'']]],
-  ['fibonacci_5ffast_2ec_283',['fibonacci_fast.c',['../d4/d99/fibonacci__fast_8c.html',1,'']]]
+  ['decimal_5fto_5fany_5fbase_2ec_0',['decimal_to_any_base.c',['../d1/dba/decimal__to__any__base_8c.html',1,'']]],
+  ['decimal_5fto_5fbinary_5frecursion_2ec_1',['decimal_to_binary_recursion.c',['../d8/d30/decimal__to__binary__recursion_8c.html',1,'']]],
+  ['doubly_5flinked_5flist_2ec_2',['doubly_linked_list.c',['../dd/d29/doubly__linked__list_8c.html',1,'']]],
+  ['durand_5fkerner_5froots_2ec_3',['durand_kerner_roots.c',['../da/d38/durand__kerner__roots_8c.html',1,'']]],
+  ['dynamic_5fstack_2ec_4',['dynamic_stack.c',['../d5/d24/dynamic__stack_8c.html',1,'']]]
 ];

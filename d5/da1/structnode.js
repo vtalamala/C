@@ -1,17 +1,15 @@
 var structnode =
 [
-    [ "color", "d5/da1/structnode.html#a310a09cb5a882788781a5287096ad425", null ],
-    [ "data", "d5/da1/structnode.html#a6f9100a3fe81d82776ce47ecdba94691", null ],
+    [ "AT", "d5/da1/structnode.html#a5507c3c76ddbda9c482749f3a8a8f0cc", null ],
+    [ "BT", "d5/da1/structnode.html#ac0a6453f996d4c362c015fd4348ecc6e", null ],
+    [ "CT", "d5/da1/structnode.html#aece40a25d30d3e0d2135007642b64882", null ],
     [ "data", "d5/da1/structnode.html#a2d890bb9f6af0ffd73fe79b21124c2a2", null ],
-    [ "info", "d5/da1/structnode.html#ac8973feda870a119ccdc25910254db0c", null ],
+    [ "ID", "d5/da1/structnode.html#ac0c8b57ac0a76d72588561c81481c454", null ],
     [ "left", "d5/da1/structnode.html#af7109e6ffd82cbbb705e486fd0ce92f0", null ],
-    [ "leftNode", "d5/da1/structnode.html#a2783f1aec750191646305988f7e28756", null ],
-    [ "link", "d5/da1/structnode.html#a1aa632fdf50713d86192a96f8191851b", null ],
     [ "next", "d5/da1/structnode.html#a111a569ab2765add9b91c9f94cf9f063", null ],
-    [ "par", "d5/da1/structnode.html#a8139af7faac30d394e198365a999b54d", null ],
-    [ "pre", "d5/da1/structnode.html#a7f5750a90eac14a9a21d5b976cd8b8a7", null ],
+    [ "priority", "d5/da1/structnode.html#a44e51013eb31fc1f17866ca9fe8ac75b", null ],
     [ "right", "d5/da1/structnode.html#a51e160f22dc6064bac4a4f9f1d931c2c", null ],
-    [ "rightNode", "d5/da1/structnode.html#aaf2ec5ed1bb563465cbe2e9d16d74d1e", null ],
-    [ "val", "d5/da1/structnode.html#a707bf3f1eeeaf8974e7e8e90f7bfd6a1", null ],
-    [ "vertex", "d5/da1/structnode.html#ab4b1f345158daee0725acecd5ba817b1", null ]
+    [ "TAT", "d5/da1/structnode.html#abbe30696293849bebed90520b8cf7ba3", null ],
+    [ "value", "d5/da1/structnode.html#a4df5127dc26bf42ff5d965d77823efb5", null ],
+    [ "WT", "d5/da1/structnode.html#a878d22393f374f3861035e35b9edd653", null ]
 ];

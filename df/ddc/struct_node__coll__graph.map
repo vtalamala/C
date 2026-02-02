@@ -1,3 +1,4 @@
 <map id="Node" name="Node">
-<area shape="rect" id="node1" title="Node, the basic data structure of the tree." alt="" coords="5,14,59,41"/>
+<area shape="rect" id="Node000001" title="Node, the basic data structure of the tree." alt="" coords="5,45,58,70"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="73,51,84,57,75,64,59,65,57,60,74,59,79,58,73,56"/>
 </map>

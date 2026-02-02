@@ -1,0 +1,6 @@
+<map id="NFAState" name="NFAState">
+<area shape="rect" id="Node000001" title="Definition for a NFA state." alt="" coords="8,5,88,31"/>
+<area shape="rect" id="Node000002" href="$d9/dd9/structtrans_rule.html" title="Definition for a NFA state transition rule." alt="" coords="9,102,87,128"/>
+<area shape="poly" id="edge2_Node000002_Node000001" title=" " alt="" coords="17,44,11,56,8,66,11,77,19,89,31,100,26,102,15,93,6,79,3,66,6,54,18,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="51,86,52,78,52,55,50,34,52,29,57,55,57,78,56,88"/>
+</map>

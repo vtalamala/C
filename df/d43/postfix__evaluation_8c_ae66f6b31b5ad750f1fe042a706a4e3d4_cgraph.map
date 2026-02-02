@@ -1,0 +1,11 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title="Main function." alt="" coords="5,31,55,56"/>
+<area shape="rect" id="Node000002" href="$df/d43/postfix__evaluation_8c.html#aa8dca7b867074164d5f45b0f3851269d" title="Self&#45;test implementations." alt="" coords="103,31,146,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="55,41,90,42,85,45,55,46"/>
+<area shape="rect" id="Node000003" href="$df/d43/postfix__evaluation_8c.html#a4494492c8fc2509f602acc8228a3b623" title="Function to evaluate postfix expression." alt="" coords="194,31,264,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="146,41,181,43,176,44,147,46"/>
+<area shape="rect" id="Node000004" href="$df/d43/postfix__evaluation_8c.html#a8546e4b3f61be1f09ce47f428116ad7d" title="Function to pop from the stack." alt="" coords="316,5,358,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="264,33,298,27,303,26,265,38"/>
+<area shape="rect" id="Node000005" href="$df/d43/postfix__evaluation_8c.html#af395c540f7e70a8d82d055a0aa42bbef" title="Function to push on the stack." alt="" coords="312,55,362,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="265,49,300,59,294,59,265,54"/>
+</map>

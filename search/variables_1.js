@@ -1,8 +1,9 @@
 var searchData=
 [
-  ['data_434',['data',['../db/d8b/struct_node.html#a87c003c9f600e3fc58e6e90835f0b605',1,'Node::data()'],['../d8/db8/structkohonen__array__3d.html#ad546baa2e81c6196d5f1dc0fe2e5bd59',1,'kohonen_array_3d::data()']]],
-  ['digits_435',['digits',['../d3/d5a/struct__large__num.html#afaf353a072cf050ac86ac6e39868bcc9',1,'_large_num']]],
-  ['dim1_436',['dim1',['../d8/db8/structkohonen__array__3d.html#a16720581653fa9a34d1029e7229a7377',1,'kohonen_array_3d']]],
-  ['dim2_437',['dim2',['../d8/db8/structkohonen__array__3d.html#a888d7e007b38c91c7933e12a9566af1d',1,'kohonen_array_3d']]],
-  ['dim3_438',['dim3',['../d8/db8/structkohonen__array__3d.html#a160f14830bdfbbf9f422f382ee754dbf',1,'kohonen_array_3d']]]
+  ['b_0',['b',['../dd/d22/structaffine__key__t.html#ad282b41d2ae70dc82e5604e7a05fe837',1,'affine_key_t']]],
+  ['bank_1',['bank',['../d2/de8/structeuler__.html#a34941b75b9bb747cd68d28315fa9691a',1,'euler_']]],
+  ['blake2b_5fiv_2',['blake2b_iv',['../d7/d3b/group__hash.html#gabaac4e8c647ac9882ec38de284382c0b',1,'hash_blake2b.c']]],
+  ['blake2b_5fsigma_3',['blake2b_sigma',['../d7/d3b/group__hash.html#gac97f6ce73af41a0bd4bce78b3f42f6c8',1,'hash_blake2b.c']]],
+  ['bt_4',['BT',['../d5/da1/structnode.html#ac0a6453f996d4c362c015fd4348ecc6e',1,'node']]],
+  ['bytes_5',['bytes',['../d4/d73/struct_m_e_m_o_r_y___i_n_f_o_r_m_a_t_i_o_n.html#a7f42967fd6562d77ac03445ea6e36a3d',1,'MEMORY_INFORMATION']]]
 ];

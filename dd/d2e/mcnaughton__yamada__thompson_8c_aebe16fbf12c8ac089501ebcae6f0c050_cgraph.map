@@ -1,0 +1,8 @@
+<map id="transit" name="transit">
+<area shape="rect" id="Node000001" title="moves a NFA forward" alt="" coords="5,43,63,68"/>
+<area shape="rect" id="Node000002" href="$dd/d2e/mcnaughton__yamada__thompson_8c.html#a709e32f5905536216abb03efb4f4db2b" title="helper function to determine an element&#39;s presence in an array" alt="" coords="116,5,186,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="62,44,103,32,99,36,64,49"/>
+<area shape="rect" id="Node000003" href="$dd/d2e/mcnaughton__yamada__thompson_8c.html#a34774f1859a742ea1c3eaf3f6726b66c" title="helper function to manage empty character transitions" alt="" coords="111,79,191,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="63,62,98,73,93,76,63,67"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="130,77,126,70,129,61,137,54,151,52,166,55,174,64,169,63,163,60,151,57,139,59,133,64,132,70,135,79"/>
+</map>

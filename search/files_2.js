@@ -1,7 +1,10 @@
 var searchData=
 [
-  ['c_5fatoi_5fstr_5fto_5finteger_2ec_277',['c_atoi_str_to_integer.c',['../d7/dd8/c__atoi__str__to__integer_8c.html',1,'']]],
-  ['cantor_5fset_2ec_278',['cantor_set.c',['../dc/d80/cantor__set_8c.html',1,'']]],
-  ['cartesian_5fto_5fpolar_2ec_279',['cartesian_to_polar.c',['../d6/d2e/cartesian__to__polar_8c.html',1,'']]],
-  ['collatz_2ec_280',['collatz.c',['../dc/d80/collatz_8c.html',1,'']]]
+  ['bead_5fsort_2ec_0',['bead_sort.c',['../d2/da8/bead__sort_8c.html',1,'']]],
+  ['binary_5fsearch_2ec_1',['binary_search.c',['../df/d3b/binary__search_8c.html',1,'']]],
+  ['binary_5fsearch_5ftree_2ec_2',['binary_search_tree.c',['../da/d02/binary__search__tree_8c.html',1,'']]],
+  ['bisection_5fmethod_2ec_3',['bisection_method.c',['../da/d4a/bisection__method_8c.html',1,'']]],
+  ['bubble_5fsort_2ec_4',['bubble_sort.c',['../dd/de4/bubble__sort_8c.html',1,'']]],
+  ['bubble_5fsort_5f2_2ec_5',['bubble_sort_2.c',['../d2/d6d/bubble__sort__2_8c.html',1,'']]],
+  ['bubble_5fsort_5frecursion_2ec_6',['bubble_sort_recursion.c',['../d5/d38/bubble__sort__recursion_8c.html',1,'']]]
 ];

@@ -1,5 +1,8 @@
 <map id="Graph" name="Graph">
-<area shape="rect" id="node1" title=" " alt="" coords="81,200,138,227"/>
-<area shape="rect" id="node2" href="$d5/da1/structnode.html" title="Kyler Smith, 2017 Stack data structure implementation." alt="" coords="5,51,56,77"/>
-<area shape="rect" id="node3" href="$d5/db4/struct_edge.html" title=" " alt="" coords="162,51,214,77"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="39,282,95,308"/>
+<area shape="rect" id="Node000002" href="$d5/db4/struct_edge.html" title=" " alt="" coords="5,85,57,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="26,124,22,188,25,224,34,257,42,270,53,282,48,282,38,273,30,259,20,224,17,188,25,129"/>
+<area shape="rect" id="Node000003" href="$d5/da1/structnode.html" title="Node, the basic data structure in the tree." alt="" coords="81,85,130,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="103,126,78,259,72,283,67,281,72,258,98,127"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="124,73,136,70,147,73,154,83,157,98,153,117,141,126,126,125,114,114,113,109,128,120,140,121,148,114,152,98,149,85,144,77,136,75,127,77"/>
 </map>

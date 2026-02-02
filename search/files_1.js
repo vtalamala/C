@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['bead_5fsort_2ec_275',['bead_sort.c',['../d2/da8/bead__sort_8c.html',1,'']]],
-  ['binary_5fsearch_2ec_276',['binary_search.c',['../df/d3b/binary__search_8c.html',1,'']]]
+  ['adaline_5flearning_2ec_0',['adaline_learning.c',['../dd/d8c/adaline__learning_8c.html',1,'']]],
+  ['affine_2ec_1',['affine.c',['../d8/daf/affine_8c.html',1,'']]],
+  ['alaw_2ec_2',['alaw.c',['../df/d27/alaw_8c.html',1,'']]]
 ];

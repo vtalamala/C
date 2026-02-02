@@ -1,0 +1,11 @@
+<map id="misc/mcnaughton_yamada_thompson.c" name="misc/mcnaughton_yamada_thompson.c">
+<area shape="rect" id="Node000001" title="McNaughton–Yamada–Thompson algorithm" alt="" coords="82,5,259,46"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,94,74,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,48,74,88,71,83,135,46"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="97,94,158,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,45,143,82,139,78,157,48"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="182,94,246,120"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="182,44,203,81,197,80,180,49"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="270,94,334,120"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="204,44,272,86,266,86,202,49"/>
+</map>

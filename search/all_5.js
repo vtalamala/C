@@ -1,10 +1,13 @@
 var searchData=
 [
-  ['edge_58',['Edge',['../d5/db4/struct_edge.html',1,'']]],
-  ['eigen_5fvalues_59',['eigen_values',['../d7/d50/qr__eigen__values_8c.html#a0d8ed79786d17df48396b333c09d05bb',1,'qr_eigen_values.c']]],
-  ['elem_60',['elem',['../d0/d6b/structelem.html',1,'']]],
-  ['end_61',['end',['../d9/dd7/struct__cantor__set.html#acfc25ab716a3c79be8a5a4cab94e8def',1,'_cantor_set']]],
-  ['epsilon_62',['EPSILON',['../d7/d50/qr__eigen__values_8c.html#a002b2f4894492820fe708b1b7e7c5e70',1,'qr_eigen_values.c']]],
-  ['eta_63',['eta',['../d2/daa/structadaline.html#a85dbd7cce6195d11ebb388220b96bde2',1,'adaline']]],
-  ['exact_5fsolution_64',['exact_solution',['../d4/d07/ode__forward__euler_8c.html#a8caee977b26888d34040b122e0e28e3a',1,'exact_solution(const double *x, double *y):&#160;ode_forward_euler.c'],['../d1/dc2/ode__midpoint__euler_8c.html#a8caee977b26888d34040b122e0e28e3a',1,'exact_solution(const double *x, double *y):&#160;ode_midpoint_euler.c'],['../d4/d99/ode__semi__implicit__euler_8c.html#a8caee977b26888d34040b122e0e28e3a',1,'exact_solution(const double *x, double *y):&#160;ode_semi_implicit_euler.c']]]
+  ['_5fbig_5fint_0',['_big_int',['../dc/d77/struct__big__int.html',1,'']]],
+  ['_5fcantor_5fset_1',['_cantor_set',['../d9/dd7/struct__cantor__set.html',1,'']]],
+  ['_5fclient_5fid_2',['_CLIENT_ID',['../d5/d18/struct___c_l_i_e_n_t___i_d.html',1,'']]],
+  ['_5flarge_5fnum_3',['_large_num',['../d3/d5a/struct__large__num.html',1,'']]],
+  ['_5fobject_5fattributes_4',['_OBJECT_ATTRIBUTES',['../db/d03/struct___o_b_j_e_c_t___a_t_t_r_i_b_u_t_e_s.html',1,'']]],
+  ['_5frandom_5',['_random',['../d1/d6b/group__kohonen__2d.html#gaf5ce14f026d6d231bef29161bac2b485',1,'_random(double a, double b):&#160;kohonen_som_topology.c'],['../d0/dcb/group__kohonen__1d.html#gaf5ce14f026d6d231bef29161bac2b485',1,'_random(double a, double b):&#160;kohonen_som_trace.c']]],
+  ['_5fsystem_5fhandle_5finformation_6',['_SYSTEM_HANDLE_INFORMATION',['../d4/d9c/struct___s_y_s_t_e_m___h_a_n_d_l_e___i_n_f_o_r_m_a_t_i_o_n.html',1,'']]],
+  ['_5fthread_5fbasic_5finformation_7',['_THREAD_BASIC_INFORMATION',['../df/dfd/struct___t_h_r_e_a_d___b_a_s_i_c___i_n_f_o_r_m_a_t_i_o_n.html',1,'']]],
+  ['_5fuse_5fmath_5fdefines_8',['_USE_MATH_DEFINES',['../d7/d98/spirograph_8c.html#a525335710b53cb064ca56b936120431e',1,'_USE_MATH_DEFINES:&#160;spirograph.c'],['../d2/df6/kohonen__som__topology_8c.html#a525335710b53cb064ca56b936120431e',1,'_USE_MATH_DEFINES:&#160;kohonen_som_topology.c'],['../d0/d46/kohonen__som__trace_8c.html#a525335710b53cb064ca56b936120431e',1,'_USE_MATH_DEFINES:&#160;kohonen_som_trace.c'],['../d6/d2e/cartesian__to__polar_8c.html#a525335710b53cb064ca56b936120431e',1,'_USE_MATH_DEFINES:&#160;cartesian_to_polar.c']]],
+  ['_5fuser_5fstack_9',['_USER_STACK',['../dd/d03/struct___u_s_e_r___s_t_a_c_k.html',1,'']]]
 ];

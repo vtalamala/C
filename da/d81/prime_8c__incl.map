@@ -1,0 +1,11 @@
+<map id="math/prime.c" name="math/prime.c">
+<area shape="rect" id="Node000001" title="Program to identify if a number is prime number or not." alt="" coords="126,5,223,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,74,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,34,77,74,74,69,150,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="98,79,160,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,30,146,68,143,64,164,33"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="184,79,258,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="183,29,207,66,202,65,181,34"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="283,79,343,105"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="198,29,278,71,273,72,197,34"/>
+</map>
